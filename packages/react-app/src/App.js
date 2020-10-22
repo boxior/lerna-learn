@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import server from "server";
+import server from "@boxior/server";
 import _ from "lodash";
 
 console.log("server", server);

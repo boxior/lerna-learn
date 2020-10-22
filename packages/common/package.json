@@ -1,6 +1,11 @@
 {
-  "name": "common",
+  "name": "@boxior/common",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "@boxior/react-app": "@boxior/react-app",
+    "@boxior/server": "@boxior/server"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "react-app",
+  "name": "@boxior/react-app",
   "version": "1.0.0",
   "private": true,
   "main": "index.js",
