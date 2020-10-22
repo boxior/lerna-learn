@@ -1,9 +1,9 @@
 {
   "name": "@boxior/react-app",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "dependencies": {
-    "@boxior/server": "^1.0.2",
+    "@boxior/server": "^1.0.3",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",

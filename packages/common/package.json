@@ -1,10 +1,10 @@
 {
   "name": "@boxior/common",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@boxior/server": "^1.0.2",
+    "@boxior/server": "^1.0.3",
     "lodash": "^4.17.20"
   }
 }
