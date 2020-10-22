@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.20"
+    "lodash": "^4.17.20",
+    "@boxior/server": "^1.0.1",
+    "@boxior/react-app": "^1.0.1"
   }
 }
