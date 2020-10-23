@@ -4,7 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@boxior/server": "^1.0.3",
-    "lodash": "^4.17.20"
+    "@boxior/server": "^1.0.3"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
   }
 }

@@ -6,7 +6,8 @@
   ],
   "scripts": {
     "test": "lerna run test",
-    "new-version": "lerna version --conventional-commits",
+    "new-version": "lerna version --conventional-commits --yes",
+    "publish": "lerna publish --conventional-commits --yes",
     "diff": "lerna diff"
   },
   "devDependencies": {
